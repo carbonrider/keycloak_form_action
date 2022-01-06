@@ -17,7 +17,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
-		<keycloak.version>4.8.3.Final</keycloak.version>
+		<keycloak.version>15.1.1</keycloak.version>
 
 		<jboss-transaction-api_1.2_spec>1.1.1.Final</jboss-transaction-api_1.2_spec>
 		<resteasy.version>3.6.1.Final</resteasy.version>
